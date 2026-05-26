@@ -80,7 +80,7 @@ Passionate about building scalable AI systems that solve real-world business cha
 
 # 🛠️ Technical Stack
 
-<div align="center">
+<div align="left">
 
 | Category | Technologies |
 |---|---|
