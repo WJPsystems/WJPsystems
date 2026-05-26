@@ -149,6 +149,20 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
 
 ---
 
+# 🌎 Areas of Expertise
+
+```text
+✔ Generative AI
+✔ Large Language Models (LLMs)
+✔ Enterprise AI Systems
+✔ MLOps & Automation
+✔ NLP & Computer Vision
+✔ Deep Learning Architectures
+✔ Cloud AI Platforms
+✔ Data Science Leadership
+
+---
+
 # 📬 Contact Me
 
 <p align="center">
@@ -165,14 +179,4 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
   </a>
 </p>
 
-# 🌎 Areas of Expertise
 
-```text
-✔ Generative AI
-✔ Large Language Models (LLMs)
-✔ Enterprise AI Systems
-✔ MLOps & Automation
-✔ NLP & Computer Vision
-✔ Deep Learning Architectures
-✔ Cloud AI Platforms
-✔ Data Science Leadership
