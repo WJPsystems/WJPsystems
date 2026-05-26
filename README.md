@@ -163,6 +163,31 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WJPsystems&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJPsystems&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WJPsystems&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/stars/WJPsystems?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/WJPsystems?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/repos/WJPsystems?style=for-the-badge&color=green" />
+
+</p>
+
+
 # 🌎 Areas of Expertise
 
 ```text
@@ -175,5 +200,4 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
 ✔ Cloud AI Platforms
 ✔ Data Science Leadership
 ---
-
 
