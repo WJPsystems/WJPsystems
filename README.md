@@ -163,6 +163,162 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
 
 ---
 
+========================
+
+# 🚀 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+- Generative AI & LLMs
+- Agentic AI Systems
+- Prompt Engineering
+- RAG Pipelines
+- AI Automation
+- AI Strategy & Architecture
+
+</td>
+<td width="50%">
+
+### 🧠 Machine Learning
+- Supervised Learning
+- Deep Learning (CNN/RNN/LSTM)
+- Transfer Learning
+- Federated Learning
+- Predictive Modeling
+- Feature Engineering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔎 NLP & Computer Vision
+- Sentiment Analysis
+- Text Classification
+- Named Entity Recognition (NER)
+- Semantic Search
+- Vector Embeddings
+- Image Classification
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud & MLOps
+- Azure AI / Azure ML
+- AWS SageMaker
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Model Monitoring
+- ML Deployment Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ Enterprise Architecture
+- Enterprise AI Solutions
+- SAP Intelligent RPA
+- Oracle ERP
+- Digital Transformation
+- Scalable System Design
+- Solution Architecture
+
+</td>
+<td width="50%">
+
+### 📈 Leadership & Strategy
+- Agile & Scrum Leadership
+- Cross-functional Team Management
+- AI Product Strategy
+- Business Intelligence
+- Data-driven Decision Making
+- Process Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technical Stack
+
+<div align="center">
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
+
+---
+
+## 🤖 AI / ML Frameworks
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-NeuralNetworks-red?style=for-the-badge&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?style=for-the-badge&logo=scikitlearn)
+![Keras](https://img.shields.io/badge/Keras-DL-red?style=for-the-badge&logo=keras)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-LLMs-yellow?style=for-the-badge&logo=huggingface)
+
+---
+
+## 🧠 Generative AI & NLP
+
+![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-NLP-blue?style=for-the-badge)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-AI-blue?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-SageMaker-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+## 📊 Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-ScientificComputing-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-BusinessIntelligence-yellow?style=for-the-badge&logo=powerbi)
+
+---
+
+## 🏢 Enterprise Technologies
+
+![SAP](https://img.shields.io/badge/SAP-RPA-blue?style=for-the-badge&logo=sap)
+![Oracle](https://img.shields.io/badge/Oracle-ERP-red?style=for-the-badge&logo=oracle)
+![Agile](https://img.shields.io/badge/Agile-Scrum-green?style=for-the-badge)
+![TOGAF](https://img.shields.io/badge/TOGAF-EnterpriseArchitecture-black?style=for-the-badge)
+
+</div>
+
+==========================
+
+
+
+
+
+
+
+
+
+
+
+
 # 🌎 Areas of Expertise
 
 ```text
