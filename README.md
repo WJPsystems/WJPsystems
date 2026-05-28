@@ -209,55 +209,6 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
 
 ---
 
-# 💼 Professional Experience
-
-## 🔹 Data Scientist — Particle Labs
-**Jan 2023 – Present**
-
-- Built enterprise-grade ML pipelines using Python, TensorFlow & scikit-learn
-- Designed NLP models for sentiment analysis, text classification & NER
-- Developed scalable RAG systems using ChromaDB & SentenceTransformers
-- Implemented Azure-based MLOps workflows with monitoring & CI/CD
-
----
-
-## 🔹 Senior Manager — Amazon
-**Jul 2021 – Jan 2025**
-
-- Led data-driven growth initiatives across global partner verticals
-- Implemented intelligent automation and customer segmentation models
-- Managed cross-functional technical teams using Agile frameworks
-
----
-
-## 🔹 Director of Sales AI/ML — Sirius Support
-
-- Drove enterprise AI/ML solution adoption with measurable ROI
-- Collaborated with engineering teams on NLP and predictive analytics products
-
----
-
-# 🎓 Education
-
-- **MS/DBA — Walsh University (In Progress)**
-- **PGP in AI & Machine Learning — UT Austin**
-- **Applied Data Science Bootcamp — MIT**
-- **B.S. — University of Central Florida**
-
----
-
-# 📜 Certifications
-
-- Oracle Financial Reporting Cloud
-- SAP Intelligent RPA
-- SAP Data Intelligence
-- Scrum Master Certified (SMC)
-- Enterprise Architect (EA)
-- Lean Six Sigma Black Belt (ICBB)
-
----
-
-
 # 🌎 Areas of Expertise
 
 ```text
