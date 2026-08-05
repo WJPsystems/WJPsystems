@@ -1,6 +1,6 @@
 <div align="center">
 
-# WJ PHILIPPE
+# WJPSystems
 
 ### Senior AI & Data Science Leader • ML Engineer • Enterprise Architect • USA
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Generative%20AI-RAG%20Systems-0A66C2?style=for-the-badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=JJ%20PHILIPPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Leader%20%7C%20ML%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=WJ%20PHILIPPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Leader%20%7C%20ML%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=58&descAlign=50"/>
 
 </div>
 
