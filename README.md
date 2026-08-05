@@ -1,6 +1,6 @@
 <div align="center">
 
-# JJ PHILIPPE
+# WJ PHILIPPE
 
 ### Senior AI & Data Science Leader • ML Engineer • Enterprise Architect • USA
 
@@ -32,7 +32,7 @@
 
 # 👨‍💻 About Me
 
-Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries including healthcare, financial services, consulting, and e-commerce.
+Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries including healthcare, financial services, advanced manufacturing, and e-commerce.
 
 Specialized in:
 
