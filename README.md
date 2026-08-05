@@ -2,7 +2,7 @@
 
 # WJPSystems
 
-### Senior AI & Data Science Leader • ML Engineer • Enterprise Architect • USA
+### AI & Data Science Leader • ML Engineer • Enterprise Architect • USA
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Expert-blue?style=for-the-badge" />
