@@ -32,7 +32,7 @@
 
 # 👨‍💻 About Me
 
-Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries. Currently Im excited to work on projects that bridge the gap between AIML and advanced manufacturing.
+Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries. Excited to work on projects that bridge the gap between AIML and advanced manufacturing.
 
 Specialized in:
 
