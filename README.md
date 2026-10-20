@@ -32,7 +32,7 @@
 
 # 👨‍💻 About Me
 
-Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries including healthcare, financial services, advanced manufacturing, and e-commerce.
+Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries. Currently Im excited to work on projects that bridge the gap between AIML and advanced manufacturing.
 
 Specialized in:
 
@@ -54,18 +54,17 @@ Passionate about building scalable AI systems that solve real-world business cha
 <td width="50%">
 
 ### 🤖 Artificial Intelligence
+- AI Strategy & Architecture
 - Generative AI & LLMs
 - Agentic AI Systems
 - Prompt Engineering
 - RAG Pipelines
 - AI Automation
-- AI Strategy & Architecture
 
 </td>
 <td width="50%">
 
 ### 🧠 Machine Learning
-- Supervised Learning
 - Deep Learning (CNN/RNN/LSTM)
 - Transfer Learning
 - Federated Learning
@@ -115,9 +114,9 @@ Passionate about building scalable AI systems that solve real-world business cha
 <td width="50%">
 
 ### 📈 Leadership & Strategy
+- Project Management
 - Agile & Scrum Leadership
 - Cross-functional Team Management
-- AI Product Strategy
 - Business Intelligence
 - Data-driven Decision Making
 - Process Optimization
@@ -212,13 +211,13 @@ ANN-based customer churn prediction model using TensorFlow/Keras with high recal
 # 🌎 Areas of Expertise
 
 ```text
-✔ Generative AI
+✔ Leadership
+✔ Strategy
 ✔ Large Language Models (LLMs)
 ✔ Enterprise AI Systems
 ✔ MLOps & Automation
 ✔ NLP & Computer Vision
 ✔ Deep Learning Architectures
 ✔ Cloud AI Platforms
-✔ Data Science Leadership
 ---
 
