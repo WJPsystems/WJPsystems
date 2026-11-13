@@ -32,10 +32,12 @@
 
 # 👨‍💻 About Me
 
-Excited to work on projects that bridge the gap between Microelectronic, AIML and advanced manufacturing.
+Driven by hands-on experience in advanced semiconductor packaging architectures and materials characterization. Passionate about building scalable AI systems that solve real-world business challenges through innovation, automation, and intelligent decision-making.
+
 
 Specialized in:
 
+- Strategy & Architecture
 - 🤖 Generative AI & LLM Systems
 - 🧠 Deep Learning & Neural Networks
 - 🔎 RAG Pipelines & Vector Search
@@ -43,7 +45,7 @@ Specialized in:
 - 📊 NLP, Predictive Analytics & Computer Vision
 - 🏗️ Enterprise AI Architecture
 
-Driven by hands-on experience in advanced semiconductor packaging architectures and materials characterization. Passionate about building scalable AI systems that solve real-world business challenges through innovation, automation, and intelligent decision-making.
+Excited to work on projects that bridge the gap between Microelectronic, AIML and advanced manufacturing.
 
 ---
 
@@ -54,7 +56,7 @@ Driven by hands-on experience in advanced semiconductor packaging architectures 
 <td width="50%">
 
 ### 🤖 Artificial Intelligence
-- AI Strategy & Architecture
+- Strategy & Architecture
 - Generative AI & LLMs
 - Agentic AI Systems
 - Prompt Engineering
