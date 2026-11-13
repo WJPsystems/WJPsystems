@@ -193,6 +193,10 @@ Excited to work on projects that bridge the gap between Microelectronic, AIML an
 
 # 📌 Featured AI/ML Projects
 
+## Inline Metrology & Yield Diagnostics (explainable-virtual-metrology): Developed data pipelines using Python and statistical modeling to analyze high-frequency wafer sensor and metrology datasets; generated transparent root-cause diagnostic reports to support process and yield engineering in-line quality decisions.
+
+## Process Flow & Bottleneck Modeling (Advanced-packaging-quality-cost-simulator): Modeled multi-step Fan-Out Wafer-Level Packaging (FOWLP) assembly and inspection flows across M1/M2 redistribution layers; applied Lean Six Sigma principles to identify line bottlenecks, minimize defect escapes, and maximize lot throughput.
+
 ## 🧠 Federated Edge AI – Healthcare
 Privacy-focused federated learning architecture using LoRA and differential privacy for distributed healthcare intelligence systems.
 
