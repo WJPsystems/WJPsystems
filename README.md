@@ -2,7 +2,7 @@
 
 # WJPSystems
 
-### AI & Data Science Leader • ML Engineer • Enterprise Architect • USA
+### Semiconductor • AIML Engineer • Enterprise Architect • USA
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Expert-blue?style=for-the-badge" />
@@ -32,7 +32,7 @@
 
 # 👨‍💻 About Me
 
-Results-driven AI & Data Science professional with 10+ years of experience leading digital transformation, machine learning implementation, and enterprise architecture across multiple industries. Excited to work on projects that bridge the gap between AIML and advanced manufacturing.
+Excited to work on projects that bridge the gap between Microelectronic, AIML and advanced manufacturing.
 
 Specialized in:
 
@@ -43,7 +43,7 @@ Specialized in:
 - 📊 NLP, Predictive Analytics & Computer Vision
 - 🏗️ Enterprise AI Architecture
 
-Passionate about building scalable AI systems that solve real-world business challenges through innovation, automation, and intelligent decision-making.
+Driven by hands-on experience in advanced semiconductor packaging architectures and materials characterization. Passionate about building scalable AI systems that solve real-world business challenges through innovation, automation, and intelligent decision-making.
 
 ---
 
